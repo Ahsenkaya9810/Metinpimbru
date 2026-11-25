@@ -1,0 +1,7 @@
+PİMBRU — METİN BUHRAN
+
+Profil fotoğrafı ve 9 Eylül 2020 tarihli gönderide aynı sabit fotoğraf kullanılır: metin-9-eylul-2020.jpg.
+
+Fotoğraflar kullanıcı tarafından değiştirilemez. Galeri/kamera yükleme özelliği ve fotoğraf değiştirme menüleri kaldırıldı. Gönderi fotoğrafına dokunulduğunda yalnızca büyütülerek görüntülenir.
+
+GitHub yüklemesi için ZIP içindeki dosyaları doğrudan ana dizine aktarın.
